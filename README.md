@@ -1,10 +1,10 @@
-#WebApiMovies
+# WebApiMovies
 
-##Description
+## Description
 
 WebApiMovies is an ASP.NET Core API that provides information about movies, actors, and user reviews. This API allows users to query movie details, retrieve actor information, and read or submit user reviews for movies.
 
-##Features
+## Features
 
 -Get a list of movies.
 -Get details of a specific movie.
@@ -12,7 +12,7 @@ WebApiMovies is an ASP.NET Core API that provides information about movies, acto
 -Read user reviews for movies.
 -Submit user reviews for movies.
 
-##Technologies Used
+## Technologies Used
 
 -ASP.NET Core
 -Entity Framework Core
@@ -20,11 +20,11 @@ WebApiMovies is an ASP.NET Core API that provides information about movies, acto
 -Swagger for API documentation
 -Docker (optional)
 
-##Contributions
+## Contributions
 
 Contributions are welcome. Please open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
